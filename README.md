@@ -1,2 +1,3 @@
 
-![code coverage badge](https://github.com/hawkaii/learn-cicd-starter/workflows/ci/badge.svg)
+![code coverage badge](https://github.com/hawkaii/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+

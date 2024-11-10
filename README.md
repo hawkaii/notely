@@ -1,10 +1,13 @@
-# learn-cicd-starter (Notely)
+# Notely
 
-![code coverage badge](https://github.com/hawkaii/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+Notely is a simple, efficient application for writing and managing your notes. Whether for lectures, meetings, or personal thoughts, Notely helps you stay organized and productive.
+Features
 
-This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
-
-This README is for reference purposes only! Follow the instructions in the course, don't start doing all the steps here in the README.
+    Seamless Note Creation: Easily create, edit, and delete notes.
+    Categorization: Organize your notes with categories or tags.
+    Search Functionality: Quickly find your notes with a robust search feature.
+    Cross-Platform Support: Access your notes from any device.
+    User-Friendly Interface: Intuitive and clean interface for hassle-free note-taking.
 
 ## Local Development
 

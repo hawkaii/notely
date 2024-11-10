@@ -9,8 +9,18 @@ Features
     Cross-Platform Support: Access your notes from any device.
     User-Friendly Interface: Intuitive and clean interface for hassle-free note-taking.
 
-## Local Development
+# Technologies Used
 
+    Frontend: React.js
+    Backend: Node.js, Express.js
+    Database: SQLite hosted on Turso
+    Deployment: Google Cloud Run
+
+# Contributing
+
+We welcome contributions! Please fork the repository, create a branch, and submit a pull request. Ensure that your code meets our quality standards.
+
+## Local Development
 Make sure you're on Go version 1.20+.
 
 Create a `.env` file in the root of the project with the following contents:
@@ -62,3 +72,4 @@ Because the `DATABASE_URL` environment variable is set, the server will connect 
 * Logout (To log in again you'll just create a new user)
 
 *The purpose of this project is to just be a simple CRUD app that we can use to practice CI/CD. It's not meant to be a fully functional app.*
+

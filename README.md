@@ -1,13 +1,26 @@
-# learn-cicd-starter (Notely)
+# Notely
 
-![code coverage badge](https://github.com/hawkaii/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+Notely is a simple, efficient application for writing and managing your notes. Whether for lectures, meetings, or personal thoughts, Notely helps you stay organized and productive.
+Features
 
-This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
+    Seamless Note Creation: Easily create, edit, and delete notes.
+    Categorization: Organize your notes with categories or tags.
+    Search Functionality: Quickly find your notes with a robust search feature.
+    Cross-Platform Support: Access your notes from any device.
+    User-Friendly Interface: Intuitive and clean interface for hassle-free note-taking.
 
-This README is for reference purposes only! Follow the instructions in the course, don't start doing all the steps here in the README.
+# Technologies Used
+
+    Frontend: React.js
+    Backend: Node.js, Express.js
+    Database: SQLite hosted on Turso
+    Deployment: Google Cloud Run
+
+# Contributing
+
+We welcome contributions! Please fork the repository, create a branch, and submit a pull request. Ensure that your code meets our quality standards.
 
 ## Local Development
-
 Make sure you're on Go version 1.20+.
 
 Create a `.env` file in the root of the project with the following contents:
@@ -59,3 +72,4 @@ Because the `DATABASE_URL` environment variable is set, the server will connect 
 * Logout (To log in again you'll just create a new user)
 
 *The purpose of this project is to just be a simple CRUD app that we can use to practice CI/CD. It's not meant to be a fully functional app.*
+
